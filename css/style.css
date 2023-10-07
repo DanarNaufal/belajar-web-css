@@ -21,7 +21,7 @@
 }
 
 /* CSS untuk konten */
-.columnA, columnB, columnC {
+.columnA, .columnB, .columnC {
     float: left;
     width: 31%;
     padding: 15px;
